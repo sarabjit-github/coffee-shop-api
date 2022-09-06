@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coffee Shop API</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *,
+      ::before,
+      ::after {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Nunito Sans", sans-serif;
+        letter-spacing: 0.2px;
+        overflow: hidden;
+        transition: all .3s;
+      }
+      :root {
+        --pink: #f07dea;
+        --purple: #a460ed;
+        --blue: #9fc9f3;
+        --gray: #eeeeee;
+      }
+      .page-container {
+        background: var(--blue);
+        background: linear-gradient(to left, #eeeeee, #e4cbff, var(--blue), #ffe4fe);
+      }
+      header {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 80px;
+        border-bottom: 1px solid var(--gray);
+      }
+      .logo h2 {
+        color: #313131;
+        font-weight: 900;
+      }
+      .logo span {
+        color: var(--purple);
+      }
+      a {
+        text-decoration: none;
+        color: black;
+        font-weight: 600;
+        padding: 1rem;
+        font-size: 1.1rem;
+      }
+      section {
+        min-height: calc(100vh - 80px);
+        width: 100%;
+        text-align: center;
+      }
+      section h1 {
+        padding-top: 8rem;
+        font-weight: 900;
+        font-size: 5rem;
+        color: #313131;
+      }
+      section h3 {
+        margin-top: 2rem;
+        font-weight: 700;
+        font-size: 3rem;
+        color: #313131;
+      }
+      button{
+        margin-top: 2rem;
+        padding: 1rem 2rem;
+        font-weight: 600;
+        font-size: 1.25rem;
+        background: transparent;
+        border: 2px solid #313131;
+        border-radius: .25rem;
+        cursor: pointer;
+      }
+      button:hover{
+        background: var(--blue);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-container">
+      <header>
+        <div class="logo">
+          <h2>CoffeeShop<span>API</span></h2>
+        </div>
+        <nav>
+          <a href="/">Home</a>
+          <a href="/api/v1/products">View Api</a>
+        </nav>
+      </header>
+      <section>
+        <h1>This is a Coffee Shop Api.</h1>
+        <h3>You can also use this api in your project.</h3>
+        <button><a href="/api/v1/products">View API</a></button>
+      </section>
+    </div>
+
+  </body>
+</html>
