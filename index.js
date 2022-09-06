@@ -5,7 +5,8 @@ const products = require("./products");
 const port = process.env.PORT || 4000;
 
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname + "/index.html"));
+//   res.sendFile(path.join(__dirname + "/index.html"));
+    res.send(products)
 });
 
 app.get("/api/v1/products", (req, res) => {
