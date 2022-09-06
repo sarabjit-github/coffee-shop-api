@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
-app.get("https://coffee-shop-api-sandy.vercel.app/api/v1/products", (req, res) => {
+app.get("/api/v1/products", (req, res) => {
   res.send(products);
 });
 app.get("/api/v1/products/:id", (req, res) => {
