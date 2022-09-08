@@ -9,14 +9,14 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api/v1/products", (req, res) => {
-  res.send(products);
+  res.json(products);
 });
 app.get("/api/v1/products/:id", (req, res) => {
   const product = products.find((p) => p.id === parseInt(req.params.id));
   if (!product) {
     res.status(404).send(`The product is not found of id: ${req.params.id}`);
   }
-  res.send(product);
+  res.json(product);
 });
 
 app.listen(port, () => {
