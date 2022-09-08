@@ -6,9 +6,7 @@ const products = require("./products");
 const port = process.env.PORT || 4000;
 
 // to prevent cors error when fetching data
-app.use(cors({
-  origin: 'http://localhost:3000'
-}));
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
