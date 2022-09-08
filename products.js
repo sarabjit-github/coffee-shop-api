@@ -9,7 +9,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://drive.google.com/file/d/1_CkLFT2amrGz0Ruo-FdRXauZ_9gp6oGR/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQBYfHTUHEZEfgNhuttdn0mUfSpu7w0RqhOuvRM1O495PHt4zbrbJDiV9BPb-EIz0rtPhHHtqM=w1920-h969",
     rating: {
       rate: 4.5,
       count: 120,
@@ -25,7 +25,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1NNMW3ccT7RDEro7ECKVXIXX6YE4JMyG-/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmTSiNe3I3F80z4Gye_IXuDait2Ie6qu0CAmxYYHjk7aBdH3FOdqBkOEReJyA74CKDuNR85W-xo=w1920-h669",
     rating: {
       rate: 4.9,
       count: 120,
@@ -41,7 +41,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/19-kXay3mpo0wdqFmT4MRUqOKSgtwz6ct/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQZIlMmE2bE3OisrxLG_8SvpYE7MLM63VcTFZBs2j4Y1dI3kJOOeYgE7NNDEDH69fr-nRk5tVc=w1920-h669",
     rating: {
       rate: 4.2,
       count: 120,
@@ -57,7 +57,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1rKBNMdyNozvxsGRMNScIYPDCAECo56el/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQLqV7vdjDmqi5Jj0cltLesq4cc4CkHReqwiCZinGRzYP5fMJSOfWza2tsxQPQ6Grhmq-d7L1w=w1920-h669",
     rating: {
       rate: 4.6,
       count: 120,
@@ -73,7 +73,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1Bzk8795_VVCnMcs4efe7vkDMlY8ieH_P/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmSIRMRvo4VwNP7UVs3FINXfo3yQyEmjOiOafEupt7gZtP5mAye91VeDRvw3ca-R40fhZA3Puio=w1920-h669",
     rating: {
       rate: 4.4,
       count: 120,
@@ -89,7 +89,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://drive.google.com/file/d/1qBCEedPLgDfaxp3SLc0J6ePxyKsbuZEw/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmTP5jmGn7Xe2WmZ1W929Es3RaEaDLUGHKudp0pmHlCsp9zzc_fnoaft0Iho3vTzDjZi86rBwgw=w1920-h669",
     rating: {
       rate: 4.5,
       count: 120,
@@ -105,7 +105,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1pxSuUnaho5qsviSpwJvJkBIhudMCYX8x/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmS_kd1z25TTA_YcXb5wTPaFizuFG2RUkjSeli7wpXWA9GI0UKhaQZmEqJcFlA1KyW4EVcw4Wek=w1920-h669",
     rating: {
       rate: 4.8,
       count: 120,
@@ -121,7 +121,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://drive.google.com/file/d/1hgzsyFuV839aAtsR30gI9M1tzUsYX4B3/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQ_CfrLP8JAF2Fn-PQHmJw2rm4PrbKPdFFe2NP_cdQO7fzW27OJP5YnQFJ-C92j5v4R6MQ0k-Y=w1920-h669",
     rating: {
       rate: 4.8,
       count: 120,
@@ -137,7 +137,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1EbXoPgyn2oEf1wUd6gGcBKjkEL6plnuG/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmRlUTcoUOzFXC0_Azu2QI7kmNsGjMeOJUeMjW4mCzcWWXcAC02ATw01WpVZkDXXN4MdQDHWUtk=w1920-h669",
     rating: {
       rate: 4.3,
       count: 120,
@@ -153,7 +153,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1bype-QTW6olQoP5QpMGcB7ngot0yDCoT/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQpr5rRh6zfC7tgOpQa-GwzSBVTl3Xp_9P85J0gLeifq216Uqll25F9lBu6YeaxT4yXV4W0mrE=w1920-h669",
     rating: {
       rate: 4.6,
       count: 120,
@@ -169,7 +169,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://drive.google.com/file/d/1EYiXlqvajyg_NnHBES52V0hLrmLamKb3/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmSMU3vUSANlkR22tkGHysbTcHGhdEerhquN68kvtH_TT0baERDU1750AMFSd8yKylr9nhsHAws=w1920-h669",
     rating: {
       rate: 4.4,
       count: 120,
@@ -185,7 +185,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1zQg-YDz7dfPk3f9IZIU_FQRspMu__DUC/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmT_1EOmUFxYEo5ujNPqR7W4DyH5oiqQc6hyVfjI_TIc8eCgIRGmjKsPOyq0QKPXP_BndWBjW0k=w1920-h669",
     rating: {
       rate: 3.9,
       count: 120,
@@ -201,7 +201,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1Du97-hiPS08gzqxGr2sNGSZFXb_8JLv5/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQR4rb0RhjvVH94rZMWyN8VT2Bx1QDQJoMLJk6ffOOxJ39hB-SWMAQdZw6ZwEybarC7p_hKN0c=w1920-h669",
     rating: {
       rate: 4.9,
       count: 120,
@@ -217,7 +217,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1zZPU3lHUUJUFOad6CQsaysicSyCnw0s8/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQWIxeoYEiu1Ni27G3aRmf5YqxRQZMdtPZ0H7ODriRBEUptwF1t6XpI0dt6vuSwiTKoRWBM2AQ=w1920-h669",
     rating: {
       rate: 4.1,
       count: 120,
@@ -233,7 +233,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://drive.google.com/file/d/1E9VBrfDDzqsAL5Vy7jtl-UnUcRtCq22H/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmSxFGS5pvaLORIxWUFSHpiaNR-nMJ69FacCpCk8Xcw_THfqJ_PrIB7BRVSvK-oSv4vF8LwX0VY=w1920-h669",
     rating: {
       rate: 4.8,
       count: 120,
@@ -249,7 +249,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1khk4yvK3U1z75hqZzQkcyLgQsOoE73-Q/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmR3nGmo6q6WZuW9NyiUhM5f1VGHDNpAGtIc9bCsBn4fAh4Y1w67_Qiwef6Kcwo8SRZEVVu4Lt0=w1920-h669",
     rating: {
       rate: 4.9,
       count: 120,
@@ -265,7 +265,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/1CI-nU6gKuz03EcX7xzs_VuPNu9zsiY09/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmTBsvMSGefxhU9WMc1ELvub2y0KXKiR_fhFhA3AFggxziDVpXKIpG3Sggpe44YcWIvzJhFuA0o=w1920-h669",
     rating: {
       rate: 4.5,
       count: 120,
@@ -281,7 +281,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://drive.google.com/file/d/10T0IkcsNoRSTIGOLqegQq97DzGhXsOGv/view?usp=sharing",
+    image: "https://lh3.googleusercontent.com/drive-viewer/AJc5JmQ2GWOgWfGa1iVheES8qBskNLFdlx8hHlNuZpkbG0C1w2DPWz6icVGrZY8ni-LUwgZ-tgYKLKs=w1920-h669",
     rating: {
       rate: 4.8,
       count: 120,
