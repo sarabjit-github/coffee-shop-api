@@ -1,8 +1,12 @@
 const express = require("express");
 const path = require("path");
+const cors = require("cors");
 const app = express();
 const products = require("./products");
 const port = process.env.PORT || 4000;
+
+// to prevent cors error when fetching data
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
