@@ -5,10 +5,12 @@ const products = require("./products");
 const port = process.env.PORT || 4000;
 
 app.get("/", (req, res) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
 app.get("/api/v1/products", (req, res) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
   res.json(products);
 });
 app.get("/api/v1/products/:id", (req, res) => {
@@ -16,6 +18,7 @@ app.get("/api/v1/products/:id", (req, res) => {
   if (!product) {
     res.status(404).send(`The product is not found of id: ${req.params.id}`);
   }
+  res.setHeader("Access-Control-Allow-Origin", "*");
   res.json(product);
 });
 
