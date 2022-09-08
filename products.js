@@ -12,7 +12,6 @@ const allProducts = [
     image: "https://i.ibb.co/DMYsNyM/cup1.jpg",
     rating: {
       rate: 4.5,
-      count: 120,
     },
   },
   {
@@ -28,7 +27,6 @@ const allProducts = [
     image: "https://i.ibb.co/bKcqNvG/cup2.jpg",
     rating: {
       rate: 4.9,
-      count: 120,
     },
   },
   {
@@ -44,7 +42,6 @@ const allProducts = [
     image: "https://i.ibb.co/1dH8rHk/cup3.jpg",
     rating: {
       rate: 4.2,
-      count: 120,
     },
   },
   {
@@ -60,7 +57,6 @@ const allProducts = [
     image: "https://i.ibb.co/wRF98y0/cup4.jpg",
     rating: {
       rate: 4.6,
-      count: 120,
     },
   },
   {
@@ -76,7 +72,6 @@ const allProducts = [
     image: "https://i.ibb.co/GTyCh3K/cup5.jpg",
     rating: {
       rate: 4.4,
-      count: 120,
     },
   },
   {
@@ -92,7 +87,6 @@ const allProducts = [
     image: "https://i.ibb.co/gzqxYTm/cup13.jpg",
     rating: {
       rate: 4.5,
-      count: 120,
     },
   },
   {
@@ -108,7 +102,6 @@ const allProducts = [
     image: "https://i.ibb.co/QvY2r6N/cup8.jpg",
     rating: {
       rate: 4.8,
-      count: 120,
     },
   },
   {
@@ -124,7 +117,6 @@ const allProducts = [
     image: "https://i.ibb.co/5F28sGc/cup9.jpg",
     rating: {
       rate: 4.8,
-      count: 120,
     },
   },
   {
@@ -140,7 +132,6 @@ const allProducts = [
     image: "https://i.ibb.co/gR0JLCK/cup10.jpg",
     rating: {
       rate: 4.3,
-      count: 120,
     },
   },
   {
@@ -156,7 +147,6 @@ const allProducts = [
     image: "https://i.ibb.co/tKCW7qn/cup11.jpg",
     rating: {
       rate: 4.6,
-      count: 120,
     },
   },
   {
@@ -172,7 +162,6 @@ const allProducts = [
     image: "https://i.ibb.co/z4HSK85/cup12.jpg",
     rating: {
       rate: 4.4,
-      count: 120,
     },
   },
   {
@@ -189,7 +178,6 @@ const allProducts = [
     image: "https://i.ibb.co/gD19GnN/cup20.jpg",
     rating: {
       rate: 3.9,
-      count: 120,
     },
   },
   {
@@ -205,7 +193,6 @@ const allProducts = [
     image: "https://i.ibb.co/GRLrJMY/cup14.jpg",
     rating: {
       rate: 4.9,
-      count: 120,
     },
   },
   {
@@ -221,7 +208,6 @@ const allProducts = [
     image: "https://i.ibb.co/K29n6ms/cup15.jpg",
     rating: {
       rate: 4.1,
-      count: 120,
     },
   },
   {
@@ -237,7 +223,6 @@ const allProducts = [
     image: "https://i.ibb.co/ns4jjfL/cup16.jpg",
     rating: {
       rate: 4.8,
-      count: 120,
     },
   },
   {
@@ -253,7 +238,6 @@ const allProducts = [
     image: "https://i.ibb.co/sCR4R9S/cup17.jpg",
     rating: {
       rate: 4.9,
-      count: 120,
     },
   },
   {
@@ -269,7 +253,6 @@ const allProducts = [
     image: "https://i.ibb.co/tXK8Phg/cup18.jpg",
     rating: {
       rate: 4.5,
-      count: 120,
     },
   },
   {
@@ -285,7 +268,6 @@ const allProducts = [
     image: "https://i.ibb.co/tq4X4V9/cup19.jpg",
     rating: {
       rate: 4.8,
-      count: 120,
     },
   },
 ];
