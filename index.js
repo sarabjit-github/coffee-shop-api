@@ -9,16 +9,16 @@ const port = process.env.PORT || 4000;
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Credentials", true );
-  res.setHeader('Content-Type', 'application/json');
+  // res.setHeader("Access-Control-Allow-Origin", "*");
+  // res.setHeader("Access-Control-Allow-Credentials", true );
+  // res.setHeader('Content-Type', 'application/json');
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
 app.get("/api/v1/products", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Credentials", true );
-  res.setHeader('Content-Type', 'application/json');
+  // res.setHeader("Access-Control-Allow-Origin", "*");
+  // res.setHeader("Access-Control-Allow-Credentials", true );
+  // res.setHeader('Content-Type', 'application/json');
   res.json(products);
 });
 app.get("/api/v1/products/:id", (req, res) => {
@@ -26,9 +26,9 @@ app.get("/api/v1/products/:id", (req, res) => {
   if (!product) {
     res.status(404).send(`The product is not found of id: ${req.params.id}`);
   }
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Credentials", true );
-  res.setHeader('Content-Type', 'application/json');
+  // res.setHeader("Access-Control-Allow-Origin", "*");
+  // res.setHeader("Access-Control-Allow-Credentials", true );
+  // res.setHeader('Content-Type', 'application/json');
   res.json(product);
 });
 
