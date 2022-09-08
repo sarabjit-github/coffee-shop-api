@@ -9,7 +9,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1_CkLFT2amrGz0Ruo-FdRXauZ_9gp6oGR/view?usp=sharing",
     rating: {
       rate: 4.5,
       count: 120,
@@ -25,7 +25,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1NNMW3ccT7RDEro7ECKVXIXX6YE4JMyG-/view?usp=sharing",
     rating: {
       rate: 4.9,
       count: 120,
@@ -41,7 +41,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/19-kXay3mpo0wdqFmT4MRUqOKSgtwz6ct/view?usp=sharing",
     rating: {
       rate: 4.2,
       count: 120,
@@ -57,7 +57,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1rKBNMdyNozvxsGRMNScIYPDCAECo56el/view?usp=sharing",
     rating: {
       rate: 4.6,
       count: 120,
@@ -73,7 +73,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1Bzk8795_VVCnMcs4efe7vkDMlY8ieH_P/view?usp=sharing",
     rating: {
       rate: 4.4,
       count: 120,
@@ -89,7 +89,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1qBCEedPLgDfaxp3SLc0J6ePxyKsbuZEw/view?usp=sharing",
     rating: {
       rate: 4.5,
       count: 120,
@@ -105,7 +105,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1pxSuUnaho5qsviSpwJvJkBIhudMCYX8x/view?usp=sharing",
     rating: {
       rate: 4.8,
       count: 120,
@@ -121,7 +121,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1hgzsyFuV839aAtsR30gI9M1tzUsYX4B3/view?usp=sharing",
     rating: {
       rate: 4.8,
       count: 120,
@@ -137,7 +137,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1EbXoPgyn2oEf1wUd6gGcBKjkEL6plnuG/view?usp=sharing",
     rating: {
       rate: 4.3,
       count: 120,
@@ -153,7 +153,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1bype-QTW6olQoP5QpMGcB7ngot0yDCoT/view?usp=sharing",
     rating: {
       rate: 4.6,
       count: 120,
@@ -169,7 +169,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1EYiXlqvajyg_NnHBES52V0hLrmLamKb3/view?usp=sharing",
     rating: {
       rate: 4.4,
       count: 120,
@@ -185,7 +185,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1zQg-YDz7dfPk3f9IZIU_FQRspMu__DUC/view?usp=sharing",
     rating: {
       rate: 3.9,
       count: 120,
@@ -201,7 +201,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1Du97-hiPS08gzqxGr2sNGSZFXb_8JLv5/view?usp=sharing",
     rating: {
       rate: 4.9,
       count: 120,
@@ -217,7 +217,7 @@ const allProducts = [
       hot: true,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1zZPU3lHUUJUFOad6CQsaysicSyCnw0s8/view?usp=sharing",
     rating: {
       rate: 4.1,
       count: 120,
@@ -233,7 +233,7 @@ const allProducts = [
       hot: true,
       cold: false,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1E9VBrfDDzqsAL5Vy7jtl-UnUcRtCq22H/view?usp=sharing",
     rating: {
       rate: 4.8,
       count: 120,
@@ -249,7 +249,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1khk4yvK3U1z75hqZzQkcyLgQsOoE73-Q/view?usp=sharing",
     rating: {
       rate: 4.9,
       count: 120,
@@ -265,7 +265,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/1CI-nU6gKuz03EcX7xzs_VuPNu9zsiY09/view?usp=sharing",
     rating: {
       rate: 4.5,
       count: 120,
@@ -281,7 +281,7 @@ const allProducts = [
       hot: false,
       cold: true,
     },
-    image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    image: "https://drive.google.com/file/d/10T0IkcsNoRSTIGOLqegQq97DzGhXsOGv/view?usp=sharing",
     rating: {
       rate: 4.8,
       count: 120,
