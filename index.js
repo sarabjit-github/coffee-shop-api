@@ -11,7 +11,7 @@ app.use(cors());
 app.get("/", (req, res) => {
   // res.setHeader("Access-Control-Allow-Origin", "*");
   // res.setHeader("Access-Control-Allow-Credentials", true );
-  // res.setHeader('Content-Type', 'application/json');
+  res.setHeader('Content-Type', 'text/html');
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
