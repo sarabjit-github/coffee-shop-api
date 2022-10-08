@@ -9,9 +9,9 @@ const port = process.env.PORT || 4000;
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Credentials", true );
-  res.setHeader('Content-Type', 'application/json');
+  // res.setHeader("Access-Control-Allow-Origin", "*");
+  // res.setHeader("Access-Control-Allow-Credentials", true );
+  // res.setHeader('Content-Type', 'application/json');
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
